@@ -9,11 +9,5 @@
 ## اجرای محلی
 فایل `index.html` را با مرورگر باز کنید.
 
-## انتشار با GitHub Pages
-1. یک repository عمومی با نام دقیق `kshvri.github.io` بسازید.
-2. فایل‌های `index.html` و `style.css` را در ریشه repository قرار دهید.
-3. از مسیر **Settings → Pages** مطمئن شوید منبع انتشار روی `Deploy from a branch` و شاخه `main` و پوشه `/(root)` است.
-4. پس از چند دقیقه سایت در نشانی `https://kshvri.github.io/` در دسترس خواهد بود.
-
 ## شخصی‌سازی
 متن معرفی و لینک‌ها در `index.html` قرار دارند؛ ظاهر صفحه را می‌توانید از `style.css` تغییر دهید.
